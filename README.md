@@ -1,7 +1,3 @@
-#### 🧑‍💻招人
-
-DeepSeek 招高性能分布式存储系统开发，在线[收简历](mailto:sfzhou@deepseek.com)！
-
 #### 📝最近文章
 1. `2026.05.19` [PaxosStore 源码分析「八、一些思考」](https://sf-zhou.github.io/paxos/paxos_store_08_review.html)
 1. `2025.11.19` [一种安全的 RDMA Buffer 复用策略](https://sf-zhou.github.io/rdma/rdma_buffer_safe_reuse.html)
