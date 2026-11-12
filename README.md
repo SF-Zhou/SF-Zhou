@@ -1,6 +1,6 @@
 #### 📝最近文章
+1. `2026.11.12` [RuaPC：安全的 RDMA 零拷贝](https://sf-zhou.github.io/rdma/ruapc_safe_zero_copy.html)
 1. `2026.05.19` [PaxosStore 源码分析「八、一些思考」](https://sf-zhou.github.io/paxos/paxos_store_08_review.html)
 1. `2025.11.19` [一种安全的 RDMA Buffer 复用策略](https://sf-zhou.github.io/rdma/rdma_buffer_safe_reuse.html)
 1. `2025.11.11` [RocksDB Sync Write on HDD 性能优化](https://sf-zhou.github.io/programming/rocksdb_direct_io_for_wal.html)
 1. `2024.10.17` [Rust Future & Pin](https://sf-zhou.github.io/rust/rust_future_and_pin.html)
-1. `2024.10.11` [Rust 2024 Return Position Impl Trait 的变化](https://sf-zhou.github.io/rust/changes_to_rpit_in_rust_2024.html)
